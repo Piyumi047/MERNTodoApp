@@ -1,0 +1,19 @@
+.app-container{
+  margin: auto;
+  max-width: 90rem;
+}
+
+.addlist{
+  max-width:40rem ;
+  margin: auto;
+  justify-items: center;
+}
+
+.float-right{
+  margin-left: 12rem;
+}
+
+              
+.text-dark text-center p-1 m-4 bg-light border-bottom{
+  margin-right: 12rem;
+}
